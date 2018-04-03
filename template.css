@@ -165,18 +165,10 @@ body* > {
 .type {
     font-size: 1.3em;
     margin-left: 10px;
+	margin-right: 10px;
     align-self: baseline;
     font-weight: 600;
 }
-
-.stats {
-    font-size: 1.3em;
-    margin-right: 10px;
-    align-self: baseline;
-    font-weight: 600;
-}
-
-
 
 #mana-icon {
     font-size: 1.4em;
