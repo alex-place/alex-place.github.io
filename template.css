@@ -219,7 +219,10 @@ p {
     margin: 5px 1px;
 }
 
-
+.stats {
+	margin-right: 5px;
+	font-size: 16px;
+}
 
 
 
