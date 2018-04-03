@@ -220,8 +220,10 @@ p {
 }
 
 .stats {
-	margin-right: 5px;
-	font-size: 16px;
+	font-size: 1.3em;
+    margin-right: 10px;
+    align-self: baseline;
+    font-weight: 600;
 }
 
 
