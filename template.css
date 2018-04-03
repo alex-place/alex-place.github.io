@@ -169,6 +169,15 @@ body* > {
     font-weight: 600;
 }
 
+.stats {
+    font-size: 1.3em;
+    margin-right: 10px;
+    align-self: baseline;
+    font-weight: 600;
+}
+
+
+
 #mana-icon {
     font-size: 1.4em;
     background: #ADD3AC;
@@ -218,15 +227,6 @@ p {
 .ftb-inner-margin {
     margin: 5px 1px;
 }
-
-.stats {
-	font-size: 1.3em;
-    margin-right: 20px;
-    align-self: baseline;
-    font-weight: 600;
-}
-
-
 
 .frame-bottom-info {
     color: white;
